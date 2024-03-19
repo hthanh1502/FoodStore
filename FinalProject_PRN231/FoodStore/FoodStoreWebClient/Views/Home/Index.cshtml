@@ -1,0 +1,248 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style>
+    .banner img {
+        display: block;
+        width: 100%; /* Make the image width 100% of the container */
+        height: auto; /* Maintain aspect ratio */
+        margin: 0 auto; /* Center the image horizontally */
+    }
+
+    body {
+        background-color: #eee;
+    }
+
+    .card {
+        background-color: #fff;
+        border: none;
+        border-radius: 10px;
+        width: 190px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .image-container {
+        position: relative;
+    }
+
+    .thumbnail-image {
+        border-radius: 10px !important;
+    }
+
+    .discount {
+        background-color: red;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        padding-left: 4px;
+        padding-right: 4px;
+        font-size: 10px;
+        border-radius: 6px;
+        color: #fff;
+    }
+
+    .add_to_cart {
+        text-decoration: none;
+        background-color: green;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        padding-left: 4px;
+        padding-right: 4px;
+        font-size: 15px;
+        border-radius: 6px;
+        color: #fff;
+    }
+
+    .Add_to_cart {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+
+    .wishlist {
+        height: 25px;
+        width: 25px;
+        background-color: #eee;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 50%;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+
+    .first {
+        position: absolute;
+        width: 100%;
+        padding: 9px;
+    }
+
+    .dress-name {
+        color: black;
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        text-decoration: none;
+        margin-left: auto;
+        margin-right: auto;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        line-height: 25px;
+        -webkit-line-clamp: 1;
+        height: 25px;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+    }
+
+        .dress-name a {
+            color: black;
+            text-decoration: none;
+            pointer-events: none;
+        }
+
+    .new-price {
+        text-align: center;
+        font-size: 15px;
+        font-weight: bold;
+        color: red;
+    }
+
+    .old-price {
+        text-align: center;
+        font-size: 10px;
+        font-weight: bold;
+        color: grey;
+    }
+
+    .item-size {
+        width: 15px;
+        height: 15px;
+        border-radius: 50%;
+        background: #fff;
+        border: 1px solid grey;
+        color: grey;
+        font-size: 10px;
+        text-align: center;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+
+</style>
+
+<div class="text-center">
+    <div class="container">
+        <main role="main" class="pb-3">
+            <div class="banner">
+                <img src="~/img/Resources/bannerlogo.jpg" alt="Banner Image" />
+            </div>
+            <br /><h1>Product in the Shop</h1><br />
+
+            <div class="shopping_fillter">
+
+                <form method="post">
+                    <input value="@ViewBag.pageIndex" name="pageIndex" hidden></input>
+                    <input value="@ViewBag.pageSize" name="pageSize" hidden></input>
+                    <label>Category</label>&nbsp;&nbsp;
+                    <select name="categoryId">
+                        <option value="0" selected="@(ViewBag.categoryId == 0 ? "selected" : null)">---All---</option>
+                        @{
+                            if (ViewBag.ListCategories != null)
+                            {
+                                foreach (var item in ViewBag.ListCategories)
+                                {
+                                    <option selected="@(ViewBag.categoryId == @item.CategoryId ? "selected" : null)" value="@item.CategoryId">@item.CategoryName</option>
+                                }
+                            }
+
+                        }
+                    </select>&nbsp;&nbsp;&nbsp;&nbsp;
+
+                    <label>Sort by</label>&nbsp;&nbsp;
+                    <select name="sort">
+                        <option value="0" selected="@(ViewBag.sort == 0 ? "selected" : null)">Default</option>
+                        <option value="1" selected="@(ViewBag.sort == 1 ? "selected" : null)">Giá tăng dần</option>
+                        <option value="2" selected="@(ViewBag.sort == 2 ? "selected" : null)">Giá giảm dần</option>
+                    </select>&nbsp;&nbsp;&nbsp;&nbsp;
+
+                    <label>Search by ProductName</label>&nbsp;&nbsp;
+                    <input value="@ViewBag.search" name="search" />&nbsp;&nbsp;&nbsp;&nbsp;
+
+                    <button asp-controller="Home" asp-action="Index" type="submit" class="btn btn-primary">Search</button>
+                </form> &nbsp;&nbsp;
+
+            </div><hr /><br />
+
+            <div class="shopping_item row">
+
+                @foreach (var item in ViewBag.Response.items)
+                {
+                    <div class="col-md-2">
+                        <div class="card" style=" width: 170px;">
+                            <div class="image-container" style="height: 200px;">
+                                <div class="first">
+                                    <div class="d-flex justify-content-between align-items-center">
+                                        <span class="discount">-@(@item.Discount * 100)%</span>
+                                    </div>
+                                </div>
+                                <img src="~/img/Products/@item.ProductImage" class="img-fluid rounded thumbnail-image" style="width: 100%; height: 100%;">
+                            </div>
+
+                            <div class="product-detail-container p-2">
+
+                                <a class="dress-name" asp-controller="Products" asp-action="Details" asp-route-id="@item.ProductId">@item.ProductName</a>
+                                @{
+                                    string old_price = @item.Price.ToString("###,###,###");
+                                    string new_price = (@item.Price - (@item.Price * (decimal)@item.Discount)).ToString("###,###,###");
+                                }
+                                <div class="d-flex flex-column mb-2">
+                                    <span class="new-price">@new_price <ins>đ</ins> </span>
+                                    <del class="old-price">@old_price <ins>đ</ins></del>
+                                </div>
+
+                                <div class="d-flex justify-content-between align-items-center pt-1">
+                                    <small class="old-price">@item.Category.CategoryName</small>
+                                    <small class="old-price" style="float:right">Quantity: @item.Quantity</small>
+                                </div>
+
+                                <div class="Add_to_cart">
+                                    <a asp-controller="Cart" asp-action="AddToCart" asp-route-productId="@item.ProductId" class="btn btn-success" style="padding: 2px">Add to cart</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="mt-3"></div>
+                    </div>
+
+                }
+
+            </div> <br /><br />
+
+            <div class="shopping_paging" style="display:flex">
+                @{
+                    var prevDisabled = ViewBag.Response.pageIndex == 1 ? "disabled" : "";
+                    var nextDisabled = ViewBag.Response.last == true ? "disabled" : "";
+                }
+                <a asp-controller="Home" asp-action="Index"
+                   asp-route-categoryId="@ViewBag.categoryId"
+                   asp-route-sort="@ViewBag.sort"
+                   asp-route-pageIndex="@(ViewBag.Response.pageIndex - 1)"
+                   asp-route-search="@ViewBag.search"
+                   class="btn btn-primary @prevDisabled">
+                    Previous
+                </a>
+                &nbsp;&nbsp;
+                <a asp-controller="Home" asp-action="Index"
+                   asp-route-categoryId="@ViewBag.categoryId"
+                   asp-route-sort="@ViewBag.sort"
+                   asp-route-pageIndex="@(ViewBag.Response.pageIndex + 1)"
+                   asp-route-search="@ViewBag.search"
+                   class="btn btn-primary @nextDisabled">
+                    Next
+                </a>
+                &nbsp;&nbsp;
+                <p style="margin-top: auto; margin-bottom:auto">Page: @ViewBag.Response.pageIndex/@ViewBag.Response.totalPages</p>
+            </div>
+
+        </main>
+    </div>
+</div>

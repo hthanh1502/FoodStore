@@ -1,0 +1,63 @@
+﻿@*@model BusinessObjects.Models.OrderDetail*@
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details Order</h1>
+
+<div>
+    <hr />
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    OrderDetailId
+                </th>
+                <th>
+                    OrderId
+                </th>
+                <th>
+                    ProductId
+                </th>
+                <th>
+                    Quantity
+                </th>
+                <th>
+                    Price
+                </th>
+                <th>
+                    Discount
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.ListOrderDetails)
+            {
+                <tr>
+                    <td>
+                        @item.OrderDetailId
+                    </td>
+                    <td>
+                        @item.OrderId
+                    </td>
+                    <td>
+                        @item.ProductId
+                    </td>
+                    <td>
+                        @item.Quantity
+                    </td>
+                    <td>
+                        @item.Price
+                    </td>
+                    <td>
+                        @item.Discount
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

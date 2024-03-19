@@ -1,0 +1,102 @@
+﻿@model BusinessObjects.Models.Account
+@{
+    ViewData["Title"] = "Register";
+}
+
+<section class="vh-100 gradient-custom">
+    <div class="container py-5 h-100">
+        <div class="row justify-content-center align-items-center h-100">
+            <div class="col-12 col-lg-9 col-xl-7">
+                <div class="card shadow-2-strong card-registration" style="border-radius: 15px;">
+                    <div class="card-body p-4 p-md-5">
+                        <h3 class="mb-4 pb-2 pb-md-0 mb-md-5">Registration</h3>
+                        <form method="post" enctype="multipart/form-data">
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="row">
+                                <div class="col-md-6 mb-4">
+                                    <div class="form-outline">
+                                        <label class="form-label" asp-for="Email">Email</label>
+                                        <input type="text" asp-for="Email" class="form-control form-control-lg" />
+                                        <span asp-validation-for="Email" class="text-danger"></span>
+                                        @if (ViewBag.Error != null)
+                                        {
+                                            <span class="text-danger" style="color:red">@ViewBag.Error</span>
+                                        }
+                                    </div>
+
+                                </div>
+                                <div class="col-md-6 mb-4">
+
+                                    <div class="form-outline">
+                                        <label class="form-label" asp-for="Password">Password</label>
+                                        <input type="password" asp-for="Password" class="form-control form-control-lg" />
+                                        <span asp-validation-for="Password" class="text-danger"></span>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-6 mb-4">
+                                    <div class="form-outline">
+                                        <label class="form-label" asp-for="Fullname">Full Name</label>
+                                        <input type="text" asp-for="Fullname" class="form-control form-control-lg" />
+                                        <span asp-validation-for="Fullname" class="text-danger"></span>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-6 mb-4">
+                                    <div class="form-outline">
+                                        <label class="form-label" asp-for="Avatar">Avatar</label>
+                                        <input type="file" name="avtFile" id="avtFile" class="form-control form-control-lg" />
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6 mb-4 d-flex align-items-center">
+
+                                    <div class="form-outline datepicker w-100">
+                                        <label asp-for="Dob" class="form-label">Birthday</label>
+                                        <input asp-for="Dob" class="form-control form-control-lg" />
+                                        <span asp-validation-for="Dob" class="text-danger"></span>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-6 mb-4">
+                                    <h6 class="mb-2 pb-1">Gender: </h6>
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" name="Gender" asp-for="Gender"
+                                               value="True" checked />
+                                        <label class="form-check-label" for="femaleGender">Male</label>
+                                    </div>
+                                    <div class="form-check form-check-inline">
+                                        <input class="form-check-input" type="radio" name="Gender" asp-for="Gender"
+                                               value="False" />
+                                        <label class="form-check-label" for="maleGender">Female</label>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6 mb-4 pb-2">
+                                    <div class="form-outline">
+                                        <label class="form-label" asp-for="Phone">Phone Number</label>
+                                        <input type="tel" asp-for="Phone" class="form-control form-control-lg" />
+                                    </div>
+                                </div>
+                                <div class="col-md-6 mb-4 pb-2">
+                                    <div class="form-outline">
+                                        <label class="form-label" asp-for="Address">Address</label>
+                                        <input type="text" class="form-control form-control-lg" asp-for="Address" />
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="mt-4 pt-2">
+                                <input asp-controller="Register" asp-action="Register" class="btn btn-primary btn-lg" type="submit" value="Sign Up" />
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

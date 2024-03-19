@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Checkout";
+}
+<style>
+    .container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .centered-image {
+        margin-bottom: 10px; /* Adjust the space between the image and the button */
+    }
+
+    .centered-button {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+</style>
+
+<div class="container">
+    <div class="image-container">
+        <img src="~/img/Resources/thankyou3.jpg" alt="Thanks Banner" />
+    </div>
+    <div class="button-container">
+        <a asp-controller="Home" asp-action="Index" class="btn btn-success">Continue Shopping</a>
+    </div>
+</div>

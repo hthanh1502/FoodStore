@@ -1,0 +1,86 @@
+﻿@model BusinessObjects.Models.Account
+@{
+    ViewData["Title"] = "Profile";
+}
+
+<div class="container rounded bg-white mt-5 mb-5">
+    <div class="row">
+        <div class="col-md-3 border-right">
+            <div class="d-flex flex-column align-items-center text-center p-3 py-5"><img class="rounded-circle mt-5" width="150px" src="~/img/Avatars/@ViewBag.Account.Avatar"><span class="font-weight-bold">@ViewBag.Account.Fullname</span><span class="text-black-50">@ViewBag.Account.Email</span><span> </span></div>
+            <br />
+            <div class="mt-5 text-center"><a asp-controller="ChangePassword" asp-action="Index" class="btn btn-primary profile-button" type="submit">Change Password</a></div>
+        </div>
+        <div class="col-md-5 border-right">
+            <div class="p-3 py-5">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <h4 class="text-right">Profile Settings</h4><br />
+                    @if (ViewBag.UpdateMessage != null)
+                    {
+                        <h6 class="text-right" style="color: green">@ViewBag.UpdateMessage</h6>
+                    }
+                </div>
+                <form method="post" enctype="multipart/form-data">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="AccountId" value="@ViewBag.Account.AccountId" />
+                    <input type="hidden" asp-for="RoleId" value="@ViewBag.Account.RoleId" />
+                    <input type="hidden" asp-for="Password" value="@ViewBag.Account.Password" />
+                    <input type="hidden" asp-for="Avatar" value="@ViewBag.Account.Avatar" />
+                    <div class="row mt-2">
+                        <div class="col-md-6"><label class="labels">Email</label><input class="form-control" placeholder="Email" asp-for="Email" value="@ViewBag.Account.Email" readonly></div>
+                        <div class="col-md-6"><label class="labels">Fullname</label><input class="form-control" asp-for="Fullname" placeholder="fullname" value="@ViewBag.Account.Fullname" required><span asp-validation-for="Fullname" class="text-danger"></span></div>
+
+                    </div>
+                    <div class="row mt-3">
+                        <div class="col-md-12">
+                            <label class="labels">Gender</label>
+                            @{
+                                if (ViewBag.Account.Gender == true)
+                                {
+                                    <div style="margin-left:20px">
+                                        Male <input checked type="radio" name="gender" value="True" />&nbsp;&nbsp;&nbsp;
+                                        Female <input type="radio" name="gender" value="False" />
+                                    </div>
+                                }
+                                else
+                                {
+                                    <div style="margin-left:20px">
+                                        Male <input type="radio" name="gender" value="True" />&nbsp;&nbsp;&nbsp;
+                                        Female <input checked type="radio" name="gender" value="False" />
+                                    </div>
+                                }
+
+                            }
+                        </div>
+                        <div class="col-md-12"><label class="labels">Address</label><input class="form-control" placeholder="enter address" asp-for="Address" value="@ViewBag.Account.Address" required></div>
+                        <div class="col-md-12"><label class="labels">Phone</label><input class="form-control" placeholder="enter email" asp-for="Phone" value="@ViewBag.Account.Phone" required></div>
+                        @{
+                            string formattedDob = null;
+                            if (ViewBag.Account.Dob != null)
+                            {
+                                formattedDob = ((DateTime)ViewBag.Account.Dob).ToString("yyyy-MM-ddTHH:mm");
+                            }
+                        }
+                        <div class="col-md-12"><label class="labels">BirthDate</label><input class="form-control" placeholder="enter birthdate" asp-for="Dob" type="datetime-local" value="@formattedDob" required></div>
+                        <div class="col-md-12"><label class="labels">AvatarImage</label><input type="file" name="avtFile" id="avtFile" class="form-control" placeholder="" value="@ViewBag.Account.Avatar" asp-for="Avatar" required></div>
+                    </div>
+                    <div class="mt-5 text-center"><button asp-controller="Profile" asp-action="UpdateProfile" class="btn btn-primary profile-button" type="submit">Save Profile</button></div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    // Wait for the web page to finish loading
+    document.addEventListener("DOMContentLoaded", function () {
+        // Get the file input element by ID
+        var inputFile = document.getElementById("avtFile");
+        // Get the avatar value from ViewBag
+        var avatarValue = "@ViewBag.Account.Avatar";
+
+        // Check if the avatar value exists, then assign the value to the file input
+        if (avatarValue) {
+            inputFile.value = avatarValue;
+        }
+    });
+</script>
