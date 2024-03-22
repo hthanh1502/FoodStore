@@ -1,543 +1,547 @@
 {
   "Files": [
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FoodStoreWebClient.bundle.scp.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FoodStoreWebClient.bundle.scp.css",
       "PackagePath": "staticwebassets\\FoodStoreWebClient.bundle.scp.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\css\\site.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\favicon.ico",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\1.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\044117a7513e5866700126a5d868bc22.jpg",
+      "PackagePath": "staticwebassets\\img\\Avatars\\044117a7513e5866700126a5d868bc22.jpg"
+    },
+    {
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\1.jpg",
       "PackagePath": "staticwebassets\\img\\Avatars\\1.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\2.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\2.jpg",
       "PackagePath": "staticwebassets\\img\\Avatars\\2.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\3.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\3.jpg",
       "PackagePath": "staticwebassets\\img\\Avatars\\3.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\4.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\4.jpg",
       "PackagePath": "staticwebassets\\img\\Avatars\\4.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\401523127_1077131313486533_5067305192485096248_n.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\401523127_1077131313486533_5067305192485096248_n.jpg",
       "PackagePath": "staticwebassets\\img\\Avatars\\401523127_1077131313486533_5067305192485096248_n.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\5.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\5.jpg",
       "PackagePath": "staticwebassets\\img\\Avatars\\5.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\6.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\6.jpg",
       "PackagePath": "staticwebassets\\img\\Avatars\\6.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\7.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\7.jpg",
       "PackagePath": "staticwebassets\\img\\Avatars\\7.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\8.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\8.jpg",
       "PackagePath": "staticwebassets\\img\\Avatars\\8.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\AnhoLe_PC.png",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Avatars\\AnhoLe_PC.png",
       "PackagePath": "staticwebassets\\img\\Avatars\\AnhoLe_PC.png"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\1.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\1.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\1.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\1200px-Pizza_Việt_Nam_đế_dày,_xúc_xích_(SNaT_2018)_(7).jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\1200px-Pizza_Việt_Nam_đế_dày,_xúc_xích_(SNaT_2018)_(7).jpg",
       "PackagePath": "staticwebassets\\img\\Products\\1200px-Pizza_Việt_Nam_đế_dày,_xúc_xích_(SNaT_2018)_(7).jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\2560px-Beef_noodle_soup_in_Erzhuzi_thickness_(20200102131419).jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\2560px-Beef_noodle_soup_in_Erzhuzi_thickness_(20200102131419).jpg",
       "PackagePath": "staticwebassets\\img\\Products\\2560px-Beef_noodle_soup_in_Erzhuzi_thickness_(20200102131419).jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\3.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\3.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\3.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\4.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\4.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\4.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\5.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\5.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\5.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\6.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\6.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\6.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\Gao-ST24.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\Gao-ST24.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\Gao-ST24.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\Naengmyeon-10-mon-mi-ngon-han-quoc-ivivu.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\Naengmyeon-10-mon-mi-ngon-han-quoc-ivivu.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\Naengmyeon-10-mon-mi-ngon-han-quoc-ivivu.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\a5c080254c0a2efa78f623801e66aafd.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\a5c080254c0a2efa78f623801e66aafd.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\a5c080254c0a2efa78f623801e66aafd.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\best-veggie-pizza-featured-image-square-2.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\best-veggie-pizza-featured-image-square-2.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\best-veggie-pizza-featured-image-square-2.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\bot-pha-tra-chanh-2.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\bot-pha-tra-chanh-2.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\bot-pha-tra-chanh-2.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\download.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\download.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\download.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\e1.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\e1.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\e1.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\e2.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\e2.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\e2.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\e4.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\e4.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\e4.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\e5.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\e5.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\e5.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h1.jpeg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h1.jpeg",
       "PackagePath": "staticwebassets\\img\\Products\\h1.jpeg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h10.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h10.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\h10.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h2.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h2.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\h2.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h3.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h3.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\h3.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h4.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h4.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\h4.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h5.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h5.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\h5.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h6.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h6.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\h6.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h7.png",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h7.png",
       "PackagePath": "staticwebassets\\img\\Products\\h7.png"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h8.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h8.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\h8.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h9.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\h9.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\h9.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\images (1).jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\images (1).jpg",
       "PackagePath": "staticwebassets\\img\\Products\\images (1).jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\images.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\images.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\images.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\lovepik-fried-instant-noodles-picture_501772141.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\lovepik-fried-instant-noodles-picture_501772141.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\lovepik-fried-instant-noodles-picture_501772141.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\n.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\n.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\n.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\n1.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\n1.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\n1.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\n2.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\n2.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\n2.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\n3.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\n3.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\n3.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\ngu.png",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\ngu.png",
       "PackagePath": "staticwebassets\\img\\Products\\ngu.png"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\noodle soup.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\noodle soup.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\noodle soup.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p1.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p1.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\p1.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p2.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p2.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\p2.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p3.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p3.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\p3.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p4.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p4.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\p4.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p5.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p5.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\p5.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p6.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p6.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\p6.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p7.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p7.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\p7.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p8.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p8.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\p8.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p9.png",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\p9.png",
       "PackagePath": "staticwebassets\\img\\Products\\p9.png"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\pngtree-gourmet-noodle-bowl-fried-noodles-catering-hot-food-vector-hand-drawn-png-image_4382552.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\pngtree-gourmet-noodle-bowl-fried-noodles-catering-hot-food-vector-hand-drawn-png-image_4382552.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\pngtree-gourmet-noodle-bowl-fried-noodles-catering-hot-food-vector-hand-drawn-png-image_4382552.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\st25-min-637655088338402506.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\st25-min-637655088338402506.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\st25-min-637655088338402506.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\the-ultimate-hamburger.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\the-ultimate-hamburger.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\the-ultimate-hamburger.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\thung-gao-3-mien-sao14-2084.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\thung-gao-3-mien-sao14-2084.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\thung-gao-3-mien-sao14-2084.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\tra-dao-hong-dua-vang.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\tra-dao-hong-dua-vang.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\tra-dao-hong-dua-vang.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\tra-dao-tth-1200x1200.png",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\tra-dao-tth-1200x1200.png",
       "PackagePath": "staticwebassets\\img\\Products\\tra-dao-tth-1200x1200.png"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\tra-tac-nha-dam-sai-gon-1.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\tra-tac-nha-dam-sai-gon-1.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\tra-tac-nha-dam-sai-gon-1.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\tra-vai-hong-cam-vang-1.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\tra-vai-hong-cam-vang-1.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\tra-vai-hong-cam-vang-1.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\w1.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\w1.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\w1.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\w2.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\w2.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\w2.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\w3.png",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\w3.png",
       "PackagePath": "staticwebassets\\img\\Products\\w3.png"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\w4.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\w4.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\w4.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\w5.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Products\\w5.jpg",
       "PackagePath": "staticwebassets\\img\\Products\\w5.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Resources\\bannerFood.png",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Resources\\bannerFood.png",
       "PackagePath": "staticwebassets\\img\\Resources\\bannerFood.png"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Resources\\bannerlogo.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Resources\\bannerlogo.jpg",
       "PackagePath": "staticwebassets\\img\\Resources\\bannerlogo.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Resources\\thankYou2.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Resources\\thankYou2.jpg",
       "PackagePath": "staticwebassets\\img\\Resources\\thankYou2.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Resources\\thankYoubanner1.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Resources\\thankYoubanner1.jpg",
       "PackagePath": "staticwebassets\\img\\Resources\\thankYoubanner1.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Resources\\thanksbanner.png",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Resources\\thanksbanner.png",
       "PackagePath": "staticwebassets\\img\\Resources\\thanksbanner.png"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Resources\\thankyou3.jpg",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\img\\Resources\\thankyou3.jpg",
       "PackagePath": "staticwebassets\\img\\Resources\\thankyou3.jpg"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\js\\site.js",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\FoodStoreWebClient\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

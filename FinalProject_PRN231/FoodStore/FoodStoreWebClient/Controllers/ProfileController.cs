@@ -66,35 +66,44 @@ namespace FoodStoreWebClient.Controllers
                 try
                 {
                     // upload file ảnh
+
                     MultipartFormDataContent formData = new MultipartFormDataContent();
-                    StreamContent fileContent = new StreamContent(avtFile.OpenReadStream());
-                    formData.Add(fileContent, "file", avtFile.FileName);
-                    string filePath = Path.Combine("wwwroot/img/Avatars", avtFile.FileName);
-                    using (FileStream fileStream = new FileStream(filePath, FileMode.Create))
-                    {
-                        await avtFile.CopyToAsync(fileStream);
+                    await Console.Out.WriteLineAsync(formData.ToString());
+                    if (avtFile != null) { 
+                        StreamContent fileContent = new StreamContent(avtFile.OpenReadStream());
+                        formData.Add(fileContent, "file", avtFile.FileName);
+                        string filePath = Path.Combine("wwwroot/img/Avatars", avtFile.FileName);
+                        using (FileStream fileStream = new FileStream(filePath, FileMode.Create))
+                        {
+                            await avtFile.CopyToAsync(fileStream);
+                        }
                     }
 
                     RestClient client = new RestClient(ApiPort);
                     var requesrUrl = new RestRequest($"api/Accounts/" + member.AccountId, RestSharp.Method.Put);
                     requesrUrl.AddHeader("content-type", "application/json");
-                    var body = new Account
+                    var body = new Account();
+                    if (account.Dob != null)
                     {
-                        Email = account.Email,
-                        Password = account.Password,
-                        Fullname = account.Fullname,
-                        Avatar = avtFile.FileName,
-                        Dob = account.Dob,
-                        Gender = account.Gender,
-                        Phone = account.Phone,
-                        Address = account.Address,
-                        RoleId = account.RoleId,
-                    };
+                        body.Dob = account.Dob;
+                    }
+                    if (account.Avatar != null)
+                    {
+                        body.Avatar = account.Avatar;
+                    }
+
+                    body.Email = account.Email;
+                    body.Password = account.Password;
+                    body.Fullname = account.Fullname;
+                    body.Gender = account.Gender;
+                    body.Phone = account.Phone;
+                    body.Address = account.Address;
+                    body.RoleId = account.RoleId;
                     requesrUrl.AddParameter("application/json-patch+json", body, ParameterType.RequestBody);
                     var response = await client.ExecuteAsync(requesrUrl);
 
                     ViewData["UpdateMessage"] = "Update Successfully!!";
-                    return View("Index");
+                    return RedirectToAction("Index", "Home");
                 }
                 catch (Exception)
                 {

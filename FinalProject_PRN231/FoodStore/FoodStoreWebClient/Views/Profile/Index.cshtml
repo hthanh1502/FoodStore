@@ -36,17 +36,17 @@
                             @{
                                 if (ViewBag.Account.Gender == true)
                                 {
-                                    <div style="margin-left:20px">
-                                        Male <input checked type="radio" name="gender" value="True" />&nbsp;&nbsp;&nbsp;
-                                        Female <input type="radio" name="gender" value="False" />
-                                    </div>
+                                        <div style="margin-left:20px">
+                                            Male <input checked type="radio" name="gender" value="True" />&nbsp;&nbsp;&nbsp;
+                                            Female <input type="radio" name="gender" value="False" />
+                                        </div>
                                 }
                                 else
                                 {
-                                    <div style="margin-left:20px">
-                                        Male <input type="radio" name="gender" value="True" />&nbsp;&nbsp;&nbsp;
-                                        Female <input checked type="radio" name="gender" value="False" />
-                                    </div>
+                                        <div style="margin-left:20px">
+                                            Male <input type="radio" name="gender" value="True" />&nbsp;&nbsp;&nbsp;
+                                            Female <input checked type="radio" name="gender" value="False" />
+                                        </div>
                                 }
 
                             }
@@ -57,11 +57,11 @@
                             string formattedDob = null;
                             if (ViewBag.Account.Dob != null)
                             {
-                                formattedDob = ((DateTime)ViewBag.Account.Dob).ToString("yyyy-MM-ddTHH:mm");
+                                formattedDob = ((DateTime)ViewBag.Account.Dob).ToString("yyyy-MM-dd HH:mm");
                             }
                         }
-                        <div class="col-md-12"><label class="labels">BirthDate</label><input class="form-control" placeholder="enter birthdate" asp-for="Dob" type="datetime-local" value="@formattedDob" required></div>
-                        <div class="col-md-12"><label class="labels">AvatarImage</label><input type="file" name="avtFile" id="avtFile" class="form-control" placeholder="" value="@ViewBag.Account.Avatar" asp-for="Avatar" required></div>
+                        <div class="col-md-12"><label class="labels">BirthDate</label><input class="form-control" placeholder="enter birthdate" asp-for="Dob" type="datetime-local" value="@formattedDob"></div>
+                        <div class="col-md-12"><label class="labels">AvatarImage</label><input type="file" name="avtFile" id="avtFile" class="form-control" placeholder="" value="@ViewBag.Account.Avatar" asp-for="Avatar"></div>
                     </div>
                     <div class="mt-5 text-center"><button asp-controller="Profile" asp-action="UpdateProfile" class="btn btn-primary profile-button" type="submit">Save Profile</button></div>
                 </form>
@@ -83,4 +83,6 @@
             inputFile.value = avatarValue;
         }
     });
+
+    
 </script>

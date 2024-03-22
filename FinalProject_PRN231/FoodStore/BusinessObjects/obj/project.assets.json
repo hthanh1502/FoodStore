@@ -2344,24 +2344,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\PC\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\duynh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\BusinessObjects\\BusinessObjects.csproj",
+      "projectUniqueName": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\BusinessObjects\\BusinessObjects.csproj",
       "projectName": "BusinessObjects",
-      "projectPath": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\BusinessObjects\\BusinessObjects.csproj",
-      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Project\\FinalProject_PRN231\\FinalProject_PRN231\\FoodStore\\BusinessObjects\\obj\\",
+      "projectPath": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\BusinessObjects\\BusinessObjects.csproj",
+      "packagesPath": "C:\\Users\\duynh\\.nuget\\packages\\",
+      "outputPath": "D:\\school\\PRN_Csharp\\PRN231\\assignment\\FoodStore\\FinalProject_PRN231\\FoodStore\\BusinessObjects\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\duynh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2422,7 +2417,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
