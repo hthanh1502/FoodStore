@@ -181,15 +181,16 @@ namespace FoodStoreWebClient.Controllers
             {
                 // upload file ảnh
                 MultipartFormDataContent formData = new MultipartFormDataContent();
-                StreamContent fileContent = new StreamContent(imgfile.OpenReadStream());
-                formData.Add(fileContent, "file", imgfile.FileName);
-                string filePath = Path.Combine("wwwroot/img/Products", imgfile.FileName);
-                using (FileStream fileStream = new FileStream(filePath, FileMode.Create))
-                {
-                    await imgfile.CopyToAsync(fileStream);
+                if (imgfile != null) {
+                    StreamContent fileContent = new StreamContent(imgfile.OpenReadStream());
+                    formData.Add(fileContent, "file", imgfile.FileName);
+                    string filePath = Path.Combine("wwwroot/img/Products", imgfile.FileName);
+                    using (FileStream fileStream = new FileStream(filePath, FileMode.Create))
+                    {
+                        await imgfile.CopyToAsync(fileStream);
+                    }
                 }
                 //product.ProductImage = imgfile.FileName;
-
                 RestClient client = new RestClient(ApiPort);
                 var requesrUrl = new RestRequest($"api/products/{id}", RestSharp.Method.Put);
                 requesrUrl.AddHeader("content-type", "application/json");
